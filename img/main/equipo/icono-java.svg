@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.875" height="30.341" viewBox="0 0 38.875 30.341">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_41" data-name="Rectángulo 41" width="38.875" height="30.341" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_11" data-name="Enmascarar grupo 11" transform="translate(0)" clip-path="url(#clip-path)">
+    <g id="icons8-logotipo-de-java-coffee-cup" transform="translate(8.059 0)">
+      <path id="Trazado_56" data-name="Trazado 56" d="M18.677,19.052a23.575,23.575,0,0,1-2.065-4.139c-1.286-3.218,7.822-6.125,4.13-11.713,1.6,3.861-5.748,6.246-6.43,9.461C13.687,15.618,18.674,19.052,18.677,19.052Z" transform="translate(-7.566 -3.2)" fill="#f44336"/>
+      <path id="Trazado_57" data-name="Trazado 57" d="M19.1,13.558c-.145,1.908,1.689,2.927,1.742,4.32a3.052,3.052,0,0,1-1.1,2.08,3.881,3.881,0,0,0,2.714-2.136c.717-1.923-1.39-3.239-1.173-4.776.2-1.473,4.575-4.2,4.575-4.2S19.432,9.264,19.1,13.558Z" transform="translate(-7.816 -3.492)" fill="#f44336"/>
+      <path id="Trazado_58" data-name="Trazado 58" d="M25.636,20a1.875,1.875,0,0,1,2.45,1.526c0,2.2-3.049,4.279-3.049,4.279s4.72-.563,4.72-4.175C29.758,19.246,27.44,18.648,25.636,20Z" transform="translate(-8.125 -4.034)" fill="#1565c0"/>
+      <path id="Trazado_59" data-name="Trazado 59" d="M22.58,21.78s1.473-1.049,1.864-1.443c-3.612.767-11.861.871-11.861.2,0-.613,2.661-1.241,2.661-1.241s-5.9-.086-5.9,1.653C9.347,22.767,17.066,22.9,22.58,21.78Z" transform="translate(-7.311 -4.034)" fill="#1565c0"/>
+      <path id="Trazado_60" data-name="Trazado 60" d="M21.794,23.615c-3.419,1.138-9.719.773-7.852-.753-.91,0-2.258.729-2.258,1.434,0,1.407,6.815,2.495,11.858.433Z" transform="translate(-7.432 -4.219)" fill="#1565c0"/>
+      <path id="Trazado_61" data-name="Trazado 61" d="M14.838,26.191c-1.241,0-2.044.8-2.044,1.384,0,1.813,7.4,1.994,10.335.154L21.265,26.49C19.072,27.453,13.57,27.586,14.838,26.191Z" transform="translate(-7.49 -4.392)" fill="#1565c0"/>
+      <path id="Trazado_62" data-name="Trazado 62" d="M27.894,29.23c0-.711-.8-1.046-1.087-1.206C28.5,32.1,9.879,31.784,9.879,29.378c0-.548,1.372-1.082,2.637-.83l-1.076-.637c-2.524-.394-4.24.714-4.24,1.609C7.2,33.695,27.894,33.493,27.894,29.23Z" transform="translate(-7.2 -4.477)" fill="#1565c0"/>
+      <path id="Trazado_63" data-name="Trazado 63" d="M30.154,30.884C27.01,33.99,19.034,35.121,11.016,33.2,19.034,36.618,30.115,34.695,30.154,30.884Z" transform="translate(-7.398 -4.635)" fill="#1565c0"/>
+    </g>
+  </g>
+</svg>

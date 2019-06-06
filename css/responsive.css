@@ -1,0 +1,135 @@
+/*
+<576px	Small
+≥576px	Medium
+≥768px	Large
+≥992px	Extra large
+≥1200px
+*/
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    .main-content__parrafo{
+        display: none;
+    }
+    .main__diseno-inpulsoNegocio-1__contentImg{
+        height: 130px;
+    }
+    
+}
+
+
+@media (max-width: 767.98px) { 
+ .header-img-aplicacion{
+        height: 180px;
+     margin-top: 15px;
+    }
+    .header{
+        padding-top: 0;
+       
+        
+    }
+    .tarjeta-proyectos{
+        margin-bottom: 25px;
+    }
+    
+   
+    .tarjeta-proyectos__header-titulo{
+        font-size: 22px !important;
+    }
+    
+    
+    .tarjeta-equipoDesarrollo{
+        margin-bottom: 5px;
+    }
+    .tarjeta-proyectos__img{
+        height: 400px;
+    }
+    .section-recomendaciones__img {
+        height: 200px;
+    }
+   
+    
+    .main__negocio-title{
+        font-size: 25px;
+    }
+    .main__negocio-parrafo{
+        font-size: 13px;
+    }
+
+    .rectangulo__img-left {
+        width: 300px !important;
+        
+    }
+    
+}
+
+
+@media (max-width: 991.98px) { 
+    .header__title1{
+        font-size: 45px;
+        margin-bottom: 0;
+        padding-bottom: 5px;
+    }
+    .header__title2{
+        font-size: 16px;
+    }
+    
+    .tarjeta-proyectos__header-titulo{
+        font-size: 15px;
+    }
+     .tarjetas-recomendaciones-padre{
+        padding: 0;
+    }
+    .tarjetas-recomendaciones{
+        margin-top: 5px;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .tarjetas-recomendaciones{
+        height: auto !important;
+        
+    }
+    .margin-top-5{
+        margin-top: 5px;
+    }
+    .tarjetas-recomendaciones__content-title{
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    
+   .footer-right{
+        justify-content: space-between;
+    }
+    
+  
+    .rectangulo:hover .rectangulo__img-right,.rectangulo__img-left {
+    
+    width: 400px;
+    height: 300px;
+    position:absolute;
+    
+    bottom: 0;
+ 
+}
+    
+  
+}
+
+
+@media (max-width: 1199.98px) { 
+    
+   
+    .main__diseno-inpulsoNegocio-1__contentImg{
+        min-width: 100%;
+         width: 70% !important;
+        margin: 0;
+        
+    }
+    .main__diseno-inpulsoNegocio-2{
+        margin-top: 5px;
+    }
+    .tarjetas-recomendaciones{
+        height: 120px;
+    }
+}

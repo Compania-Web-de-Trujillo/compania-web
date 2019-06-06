@@ -1,0 +1,122 @@
+
+/* CONTENIDO HEADER */
+
+.header{
+    
+    background: linear-gradient(173deg, rgba(220,17,74,1) 0%, rgba(109,31,107,1) 100%);
+    padding: 60px 0 110px 0;
+    height: calc(100vh - 50px);
+}
+.header--contenido--padre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header__title{
+    text-align: center;
+    font-weight: 600;
+    font-size: 70px;
+}
+.header__title1{
+    padding-bottom: 18px;
+}
+.header__title2{
+    font-size: 18px;
+}
+.header__contenido{
+   
+    width: 100%;
+}
+
+.header-img-aplicacion{
+    
+    display: block;
+    width: 650px;
+    height: 250px;
+    margin: 55px auto 0;
+}
+
+.header{
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    
+    align-items: center;
+}
+.contenido-img-chica{
+    position: absolute;
+    right: -180px;
+    bottom:0;
+    display: block;
+    
+}
+.img-chica{
+    
+    height: 100%;
+    z-index:1;
+    height: calc(100vh - 50px);
+}
+
+/* END CONTENIDO HEADER */
+
+/* FOOTER DE BANNER */
+
+.footer-header-titulos{
+    border-left: 3px solid #FFDE63;
+    padding-left: 5px;
+   
+}
+.footer-header__title1,.footer-header__title2{
+    font-size: 15px;
+    margin-bottom: 0;
+   font-weight: 600;
+    
+}
+.footer-header__btnClientes{
+    font-size: 14px;
+    text-align: center;
+    font-weight: 600;
+    padding: 9px;
+}
+.footer-header__btnClientes:hover{
+    color: #fff !important;
+    background: #ED4172 !important;
+    border-color: #ED4172 !important;
+}
+.contenido-boton-footer{
+    justify-content: center;
+}
+
+
+.contenido-boton-footer{
+    display: flex;
+    align-items: center;
+    
+}
+
+.footer-header-redesSociales{
+    display: flex;
+    font-size: 23px;
+    align-items: center;
+    padding: 5px;
+    text-align: end;
+ 
+}
+
+
+
+
+.fondo-footer-header{
+    position: absolute;
+    
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: 100%;
+    padding: 25px 0 25px 0;
+    background-color: rgba(0,0,0,0.3);
+    z-index: 2;
+    
+}
+
+/* END FOOTER BANNER */

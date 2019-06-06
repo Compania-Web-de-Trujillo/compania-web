@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.875" height="30.341" viewBox="0 0 38.875 30.341">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_43" data-name="Rectángulo 43" width="38.875" height="30.341" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_13" data-name="Enmascarar grupo 13" transform="translate(0)" clip-path="url(#clip-path)">
+    <g id="icons8-git" transform="translate(4.267 0)">
+      <path id="Trazado_65" data-name="Trazado 65" d="M33.913,17.865,20.9,4.85a2.116,2.116,0,0,0-3.032,0L15.071,7.645l3.272,3.272a2.225,2.225,0,0,1,1.039-.237,2.351,2.351,0,0,1,2.4,2.4,2.2,2.2,0,0,1-.24,1.035L24.73,17.3a2.225,2.225,0,0,1,1.039-.237,2.4,2.4,0,1,1-2.4,2.4,2.217,2.217,0,0,1,.24-1.039L20.42,15.23c-.081,0-.159.078-.24.078v8.306a2.326,2.326,0,0,1,1.6,2.236,2.4,2.4,0,1,1-4.791,0,2.326,2.326,0,0,1,1.6-2.236V15.23a2.329,2.329,0,0,1-1.6-2.236,2.226,2.226,0,0,1,.24-1.039L13.951,8.683l-9.1,9.182a2.116,2.116,0,0,0,0,3.032L17.865,33.913a2.116,2.116,0,0,0,3.032,0L33.913,20.9a2.116,2.116,0,0,0,0-3.032Z" transform="translate(-4.211 -4.211)" fill="#f4511e"/>
+    </g>
+  </g>
+</svg>

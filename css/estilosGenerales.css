@@ -1,0 +1,159 @@
+*,
+:after,
+:before {
+    box-sizing: border-box;
+}
+
+body{
+    background: #FCFCFC !important;
+}
+
+/* botones */
+.btn-outline-primario {
+    color: #ED4172 !important;
+    border-color: #ED4172 !important;
+}
+
+.btn-primario {
+    color: #fff !important;
+    background: #ED4172 !important;
+    border-color: #ED4172 !important;
+}
+
+.btn-outline-secundario {
+    color: #1D96DD !important;
+    border-color: #1D96DD !important;
+}
+
+.btn-secundario{
+    color: #fff !important;
+    background: #1D96DD !important;
+    border-color: #1D96DD !important;
+}
+
+.btn-outline-enfasis {
+    color: #FFDE63 !important;
+    border-color: #FFDE63 !important;
+}
+
+.btn-enfasis{
+    color: #fff !important;
+    background: #FFDE63 !important;
+    border-color: #FFDE63 !important;
+}
+
+/*----------End-------------*/
+
+
+
+
+/* texto */
+
+.texto-primario {
+    color: #ED4172 !important;
+}
+
+.texto-secundario {
+    color: #1D96DD !important;
+}
+
+
+.texto-enfasis {
+    color: #FFDE63 !important;
+    
+}
+
+.texto-plomo{
+    color: #666666 !important;
+}
+
+.texto-plomoFuerte{
+    color: #444444 !important;
+}
+
+.texto-blanco{
+    color:#fff !important;
+}
+
+.texto-negro{
+    color: #262626 !important;
+}
+
+/*----------End-------------*/
+
+
+
+/* background(color de fondo) */
+
+.bg-primario {
+    background-color: #ED4172 !important;
+}
+
+.bg-secundario {
+    background-color: #1D96DD !important;
+}
+
+
+.bg-enfasis {
+    background-color: #FFDE63 !important;
+    
+}
+
+.bg-plomo{
+    background-color: #666666 !important;
+}
+
+.bg-plomoFuerte{
+    background-color: #444444 !important;
+}
+
+.bg-blanco{
+    background-color:#fff !important;
+}
+
+.bg-negro{
+    background-color: #262626 !important;
+}
+
+.bg-ps-rojo{
+    background-color:#E77C86 !important;
+}
+
+.bg-ps-celeste{
+    background-color: #84D1E1 !important;
+}
+
+.bg-ps-amarillo{
+    background-color: #FFDE63 !important;
+}
+
+/*----------End-------------*/
+
+
+
+/* fuentes */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family:'Open Sans', sans-serif;
+}
+p,a,button{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+a{
+    text-decoration: none !important;
+}
+/*----------End-------------*/
+
+
+
+
+
+
+

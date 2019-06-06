@@ -1,0 +1,368 @@
+/* titulos o frase*/
+.texto-presentacion{
+    padding-bottom: 10px;
+    padding-top: 50px;
+}
+.proyectos-reales{
+    position: relative;
+}
+.proyectos-reales__boton{
+    position: absolute;
+    right: 0;
+    bottom: 40%;
+    font-size: 16px;
+    font-weight: 600;
+    
+}
+
+.proyectos-reales__boton:hover{
+   color: #fff !important;
+    background: #1D96DD !important;
+    border-color: #1D96DD !important;
+}
+.main__negocio-title,
+.main__negocio-parrafo {
+    text-align: center;
+}
+
+.main__negocio-title {
+    font-size: 30px;
+}
+
+.main__negocio-parrafo {
+    font-size: 15px;
+}
+
+.main__negocio-title-negrita {
+    font-weight: 600;
+}
+
+.main {
+    padding-top: 30px;
+    
+    padding-bottom: 30px;
+}
+
+/* end frase*/
+
+/* cotenido de presentaciones*/
+.main__diseno-inpulsoNegocio-1 img,
+.rectangulo {
+    width: 100%;
+    height: 170px;
+    
+
+}
+
+
+.rectangulo__img-right{
+    transition-property: width, height;
+    transition-duration: 1s;
+}
+.rectangulo:hover .rectangulo__img-right {
+    
+    width: 205px;
+    height: 160px;
+    position:absolute;
+    
+    bottom: 0;
+    
+}
+
+.rectangulo__title-start{
+    transition-property: color,font-size;
+    transition-duration: 1s;
+    
+}
+.rectangulo:hover .rectangulo__title-start{
+    z-index: 1;
+    
+    font-size: 25px;
+    width: 100%;
+    text-align: center;
+}
+.rectangulo__img-left{
+    transition-property: width, height;
+    transition-duration: 1s;
+}
+.rectangulo:hover .rectangulo__img-left {
+    
+    width: 205px;
+    height: 160px;
+    position:absolute;
+    
+    bottom: 0;
+    
+}
+
+.rectangulo__title-end{
+    transition-property: color,font-size;
+    transition-duration: 1s;
+    z-index: 1;
+    
+}
+.rectangulo:hover .rectangulo__title-end{
+    z-index: 1;
+    font-size: 25px;
+    width: 100%;
+    text-align: center;
+}
+
+.rectangulo {
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 5px;
+    ;
+
+}
+
+.rectangulo__img-left {
+    position: absolute;
+    width: 50%;
+    bottom: 0;
+    left: 0;
+
+}
+
+.rectangulo__img-right {
+    position: absolute;
+    width: 50%;
+    bottom: 0;
+    right: 0;
+}
+
+.rectangulo__title-end {
+    margin-left: 45%;
+    font-size: 20px;
+    text-align: center;
+    width: 60%;
+
+    color: #fff;
+    font-weight: 600;
+}
+
+.rectangulo__title-start {
+    margin-right: 45%;
+    font-size: 20px;
+    text-align: center;
+    width: 60%;
+
+    color: #fff;
+    font-weight: 600;
+}
+
+.main__diseno-inpulsoNegocio-1,
+.main__diseno-inpulsoNegocio-2 {
+    padding: 0;
+}
+
+.main__diseno-inpulsoNegocio-1__contentImg {
+    margin-bottom: 5px;
+    margin-right: 5px;
+
+    position: relative;
+    overflow: hidden;
+
+
+}
+
+
+.main-content-img__icono-clientes {
+    display: block;
+    width: auto !important;
+    height: 40px !important;
+    position: absolute;
+    top: 10%;
+    left: 10px;
+
+}
+
+.main-content__parrafo {
+    font-size: 15px;
+    position: absolute;
+    bottom: 20%;
+    transform: translateY(-50%);
+    margin-bottom: 0;
+
+    right: -100%;
+    transition-property: right, left;
+    transition-duration: 1s;
+    -webkit-transition-property: right, left;
+    /* Safari */
+    -webkit-transition-duration: 1s;
+    padding: 8px 25px;
+    width: auto;
+    text-align: right;
+    color: #fff;
+    background-color: rgb(0, 0, 0, 0.4)
+}
+
+
+.animacion-persona1:hover .main-content__parrafo {
+    right: 0;
+
+}
+
+.animacion-persona2:hover .main-content__parrafo {
+    right: 0;
+
+}
+
+.animacion-persona3:hover .main-content__parrafo {
+    right: 0;
+
+}
+
+/*END contenido de presentaciones*/
+
+
+/* seccion de proyectos reales*/
+
+.tarjeta-proyectos{
+    /*width: 30%;*/
+}
+.tarjeta-proyectos__header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding-bottom: 8px;
+    
+}
+.tarjeta-proyectos__header-titulo{
+    font-size: 20px;
+    margin-bottom: 0;
+    font-weight: 600;
+}
+.tarjeta-proyectos__header-icono{
+    
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: 1.8px solid #ED4172;
+}
+.tarjeta-proyectos__img{
+    width: 100%;
+    height: 360px;
+}
+.tarjeta-proyectos__footer--parrafo{
+    margin-top: 5px;
+    margin-bottom: 0;
+    font-size: 13px;
+}
+/*end seccion de proyectos reales*/
+
+/* seccion de equipo desarrollo*/
+
+.tarjeta-equipoDesarrollo{
+    border: 1px solid #EDEDED;
+}
+.texto-presentacion{
+    
+}
+.tarjeta-equipoDesarrollo__header-titulo{
+    margin: 0;
+    font-size: 14px;
+}
+.tarjeta-equipoDesarrollo__header,.tarjeta-equipoDesarrollo__footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+}
+.tarjeta-equipoDesarrollo--parrafo{
+    font-size: 16px;
+    margin: 0;
+    
+}
+.tarjeta-equipoDesarrollo__especializacion-img{
+    width: 22px;
+}
+
+
+/*END seccion de equipo desarrollo*/
+
+
+/* Recomendaciones */
+.recomendaciones{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between !important;
+    padding-left: 15px;
+    
+}
+.header-recomendaciones__title{
+    padding: 8px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #444444;
+    margin: 0;
+}
+.recomendaciones-content-img{
+    padding: 0;
+    border: 1px solid #EDEDED;
+}
+.section-recomendaciones{
+    display: flex;
+    overflow: hidden;
+    justify-content: space-between;
+}
+.section-recomendaciones__img{
+    width: 33%;
+    height: 360px;
+}
+
+
+.tarjetas-recomendaciones-padre{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.tarjetas-recomendaciones{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    border: 1px solid #EDEDED;
+    background: #fff;
+}
+
+.tarjetas-recomendaciones__img{
+   width: 50px;
+    height: 50px;
+    
+    border-radius: 50%;
+    border: 1.2px solid #ED4172;
+    font-size: 0;
+    padding: 1px;
+}
+.tarjetas-recomendaciones__content-title{
+    font-size: 18px;
+    font-weight: 600;
+    color: #262626;
+}
+.tarjetas-recomendaciones__content-parrafo{
+    font-size: 13px;
+    color:#262626;
+}
+.tarjetas-recomendaciones__content-textos{
+    padding: 0 15px;
+}
+
+.padding-right-0{
+    padding-right: 0;
+}
+
+.padding-left-0{
+    padding-left: 0;
+}
+
+
+/*End Recomendaciones*/
